@@ -4,3 +4,5 @@ Dataset is proposed by---Altwaijry, N., Al-Turaiki, I. Arabic handwriting recogn
 数据集可以通过该链接进行下载（免费的）：https://download.csdn.net/download/weixin_47691066/86692490
 
 然后将数据集与所提供的程序放在同目录下就可以开始使用这两个简单的程序了。
+
+$Net_model.pt$是我们训练好的一个权重文件。
